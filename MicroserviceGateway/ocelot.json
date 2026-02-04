@@ -38,6 +38,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:6000"
+    "BaseUrl": "https://localhost:8080"
   }
 }
