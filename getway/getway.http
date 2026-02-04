@@ -1,0 +1,6 @@
+@getway_HostAddress = http://localhost:5051
+
+GET {{getway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
